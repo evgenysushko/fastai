@@ -117,3 +117,6 @@ ENV/
 ehthumbs.db
 Thumbs.db
 .idea
+
+# fastai dir in my-projects
+/my-projects/fastai/
